@@ -13,7 +13,7 @@
 * 1.ดาวน์โหลดโปรแกรม [**Pycharm**](https://www.jetbrains.com/pycharm/download/?section=windows)
 * 2.เข้าPycharm → สร้าง New Project
 * 3.ไปที่ setting ของ project → Python Interpreter → install package Kivy
-* 4.สร้าง main.py นำโค้ดใน folder source code ไปใส่
+* 4.สร้าง main.py นำโค้ดใน main.py ของพวกเราไปใส่
 * 5.ทดสอบ run
 ### วิธีใช้งานอยู่ในคริปโฆษณา😇
 # ขอให้ user มีความสุขต่อการใช้งานนะครับ/ค่ะ 😘
