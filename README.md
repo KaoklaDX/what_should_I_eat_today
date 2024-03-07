@@ -11,4 +11,4 @@
 * 2.กดติดตั้งในโทรศัพท์
 ### **Window** <img src="img/window.svg" alt="window" width="25" length="25">
 * 1.ดาวน์โหลดโปรแกรม [**Pycharm**](https://www.jetbrains.com/pycharm/download/?section=windows)
-* 2. 
+* 2.ขี้เกียจ 
