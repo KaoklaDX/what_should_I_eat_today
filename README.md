@@ -6,6 +6,6 @@
 
 ## วิธีใช้งาน/How to use
 ### ANDROID <img src="img/android.svg" alt="android" width="25" length="25">
-* 1.ดาวโหลดไฟล์ whatshouldieattoday.apk
+* 1.ดาวโหลดไฟล์ [whatshouldieattoday.apk]()
 * 2.กดติดตั้งในโทรศัพท์
-### Window <img src="img/window.svg" alt="window" width="100" length="100">
+### **Window** <img src="img/window.svg" alt="window" width="25" length="25">
